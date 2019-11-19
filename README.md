@@ -1,2 +1,2 @@
 # FSharp-MachineLearning
-Machine learning basic code example in F#
+Machine learning with examples in F#.
